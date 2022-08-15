@@ -73,7 +73,7 @@
 
     /* header */
     #header {width: 100%;height: 80px;}
-    #header .m_btn {display:block;float:right;margin-top: 3%;margin-right: 5%;}
+    #header .m_btn {display:block;float:right;margin-top: 5%;margin-right: 5%;}
 
     /* header-logo */
     h1{width: 80px;height: 80px;; display:inline-block;margin-left: 40%;}
@@ -104,8 +104,8 @@
     .slide{width: 100%;overflow: hidden;margin:0 auto;}
     .slideList2{display:none}
     .slideList{display:none}
-    .slideList3{width: 3000px;position: relative;}
-    .slideImg{float:left;width: 600px;}
+    .slideList3{width: 2500px;position: relative;}
+    .slideImg{float:left;width: 500px;}
     .slideImg img{width:100%;}
 
     /* contents-cont1 */
@@ -118,7 +118,7 @@
     .sch ul li {width: 100%; height: 50px;}
     .sch .btn_sm {width: 100%;height: 80px;}   
     .sch ul>.cont1_btn{width: 100%;height: 80px;margin-top: 40px;margin-left: 0px;}
-    .sch ul li.span2 {width: 100%;}
+    .sch ul li.span2 {width: 100%;margin-right: 5px;}
 
      /* contents-cont2 */        
      .cont2_3 {width: 100%;height: 600px;}
@@ -151,7 +151,4 @@
     .f_p b{font-size: 10px;color: rgb(104, 104, 104);}
 
     .qmenu{display: none;}
-
-
-
 }
